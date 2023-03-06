@@ -1,9 +1,14 @@
 # parduslibreoffice-secmeliders
 Özgür yazılım Felsefesi ve tarihçesi
+
 Linux işletim Sistemi’ne giriş
+
 Pardus işletim sisteminin kurulması
+
 Masaüstü ortamı nedir? Pardus Masaüstü ortamının incelenmesi
+
 Pardus işletim sistemi ayarlar
+
 Linux işletim sistemlerinde hangi amaçla hangi uygulamaları kullanabiliriz? 
 Temel seviye terminal komutları
 -temel komutlar
