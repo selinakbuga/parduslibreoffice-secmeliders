@@ -19,15 +19,7 @@ Temel seviye terminal komutları
 -kullanıcı yönetimi
 -paket yönetimi
 
-Libreoffice’e giriş
-
-Libreoffice Writer  ile doküman oluşturmak
-
-Libreoffice Calc ile hesap tabloları ile çalışmak
-
-Libreoffice İmpress ile sunum hazırlamak
-
-Libreoffice diğer uygulamalar
+Libreoffice Writer - Calc - İmpress 
 
 
 Online Çalışma Yapılabilecek Platformlar 
