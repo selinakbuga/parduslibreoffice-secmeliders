@@ -31,6 +31,9 @@ Libreoffice diğer uygulamalar
 
 
 Online Çalışma Yapılabilecek Platformlar 
+
 https://bulutbilisimciler.com/ 
+
 https://www.onworks.net/runos/create-os.html 
+
 https://www.tutorialspoint.com/linux_terminal_online.php
