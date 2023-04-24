@@ -22,6 +22,9 @@ Temel seviye terminal komutları
 Libreoffice Writer - Calc - İmpress 
 
 
+https://toplanti.pardus.org.tr/dokuzeylulpardus
+
+
 Online Çalışma Yapılabilecek Platformlar 
 
 https://bulutbilisimciler.com/ 
